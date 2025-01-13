@@ -1,8 +1,3 @@
-# React + Vite
+Movie Watch-list 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React app that fetches movie data from an API, allowing users to search and explore movies based on title. Users can also create a personalized watchlist by adding their favorite movies for easy access later.
